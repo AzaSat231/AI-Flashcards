@@ -17,7 +17,7 @@ def generate_flashcards(text: str, num_cards: int = 10) -> List[Flashcard]:
     Returns:
         A list of Flashcard objects.
 
-    TODO: Replace stub logic with AI model call (Claude API / OpenAI).
+    TODO: Replace stub logic with AI model call (Llama model).
     """
     # --- STUB: return placeholder cards until AI is wired up ---
     stub_cards = [
